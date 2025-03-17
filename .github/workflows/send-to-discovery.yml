@@ -11,7 +11,7 @@ env:
   #API_FOLDERS: APIfolder,APIfolderTwo
   PLATFORM_API_PREFIX: api-manage-45725bf8-platform-api-tech-jam-apic
   INSECURE_SKIP_TLS_VERIFY: true
-
+  
 jobs:
   run-discovery:
     runs-on: ubuntu-latest
